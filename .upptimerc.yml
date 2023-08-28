@@ -4,11 +4,11 @@ repo: status # The name of this repository
 
 sites:
   - name: Homepage
-    url: https://hunterwittenborn.coms
+    url: https://hunterwittenborn.com
   - name: Matrix
     url: https://matrix.hunterwittenborn.com
   - name: Shlink
-    url: https://shlink.hunterwittenborn.com
+    url: https://shlink.makedeb.org/install
   - name: makedeb Homepage
     url: https://www.makedeb.org
   - name: makedeb Docs
