@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 89,
+    "timeDay": 90,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
@@ -22,36 +22,40 @@
     "url": "https://matrix.hunterwittenborn.com",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.hunterwittenborn.com.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 357,
+    "time": 414,
+    "timeDay": 337,
     "timeWeek": 382,
-    "timeMonth": 415,
-    "timeYear": 415,
-    "dailyMinutesDown": {}
+    "timeMonth": 414,
+    "timeYear": 414,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Shlink",
     "url": "https://shlink.makedeb.org/install",
     "icon": "https://icons.duckduckgo.com/ip3/shlink.makedeb.org.ico",
     "slug": "shlink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 661,
-    "timeWeek": 623,
-    "timeMonth": 582,
-    "timeYear": 582,
-    "dailyMinutesDown": {}
+    "time": 586,
+    "timeDay": 691,
+    "timeWeek": 628,
+    "timeMonth": 586,
+    "timeYear": 586,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "makedeb Homepage",
@@ -65,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 162,
-    "timeWeek": 167,
+    "timeDay": 167,
+    "timeWeek": 168,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {}
@@ -94,18 +98,20 @@
     "url": "https://mpr.makedeb.org",
     "icon": "https://icons.duckduckgo.com/ip3/mpr.makedeb.org.ico",
     "slug": "makedeb-package-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 308,
-    "timeWeek": 314,
+    "timeDay": 288,
+    "timeWeek": 309,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 1
+    }
   },
   {
     "name": "makedeb Package Repository (SSH)",
@@ -119,7 +125,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 44,
+    "timeDay": 43,
     "timeWeek": 44,
     "timeMonth": 45,
     "timeYear": 45,
@@ -130,19 +136,19 @@
     "url": "https://proget.makedeb.org",
     "icon": "https://icons.duckduckgo.com/ip3/proget.makedeb.org.ico",
     "slug": "makedeb-pro-get-instance",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 300,
+    "timeDay": 287,
     "timeWeek": 310,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-09-04": 7
+      "2023-09-04": 1
     }
   },
   {
@@ -151,18 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drop.rhinolinux.org.ico",
     "slug": "rhino-drop",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 287,
-    "timeDay": 315,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 293,
     "timeWeek": 277,
-    "timeMonth": 287,
-    "timeYear": 287,
-    "dailyMinutesDown": {
-      "2023-09-04": 7
-    }
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   }
 ]
