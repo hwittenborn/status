@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 122,
-    "timeWeek": 116,
+    "timeDay": 123,
+    "timeWeek": 115,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.hunterwittenborn.com.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 361,
-    "timeWeek": 343,
+    "timeDay": 358,
+    "timeWeek": 342,
     "timeMonth": 375,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2023-09-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shlink",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shlink.makedeb.org.ico",
     "slug": "shlink",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 617,
-    "timeWeek": 603,
+    "timeDay": 615,
+    "timeWeek": 602,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2023-09-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "makedeb Homepage",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 192,
+    "time": 179,
+    "timeDay": 195,
     "timeWeek": 190,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -87,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 177,
-    "timeWeek": 179,
+    "timeDay": 182,
+    "timeWeek": 180,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -99,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mpr.makedeb.org.ico",
     "slug": "makedeb-package-repository",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 319,
+    "timeDay": 320,
     "timeWeek": 322,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {
-      "2023-09-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "makedeb Package Repository (SSH)",
@@ -137,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proget.makedeb.org.ico",
     "slug": "makedeb-pro-get-instance",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 284,
+    "timeDay": 285,
     "timeWeek": 296,
     "timeMonth": 304,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2023-09-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RhinoDrop",
@@ -163,8 +155,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 339,
-    "timeWeek": 272,
+    "timeDay": 273,
+    "timeWeek": 271,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {}
