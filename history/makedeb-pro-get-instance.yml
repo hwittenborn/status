@@ -1,7 +1,7 @@
 url: https://proget.makedeb.org
-status: up
-code: 200
-responseTime: 595
-lastUpdated: 2023-10-16T01:38:07.558Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2023-10-16T01:50:56.978Z
 startTime: 2023-08-27T16:03:48.760Z
 generator: Upptime <https://github.com/upptime/upptime>
