@@ -1,7 +1,7 @@
 url: https://drop.rhinolinux.org
-status: down
-code: 502
-responseTime: 150
-lastUpdated: 2023-10-19T23:16:36.637Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2023-10-19T23:19:23.773Z
 startTime: 2023-08-27T16:03:49.539Z
 generator: Upptime <https://github.com/upptime/upptime>
