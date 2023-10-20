@@ -1,7 +1,7 @@
 url: https://shlink.makedeb.org/install
-status: up
-code: 200
-responseTime: 612
-lastUpdated: 2023-10-20T02:29:42.710Z
+status: down
+code: 502
+responseTime: 170
+lastUpdated: 2023-10-20T02:35:07.683Z
 startTime: 2023-08-27T16:03:42.794Z
 generator: Upptime <https://github.com/upptime/upptime>
