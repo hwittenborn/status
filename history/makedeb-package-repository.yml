@@ -1,7 +1,7 @@
 url: https://mpr.makedeb.org
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2023-11-09T16:53:08.378Z
+status: down
+code: 502
+responseTime: 13945
+lastUpdated: 2023-11-09T17:00:37.814Z
 startTime: 2023-08-27T16:03:47.142Z
 generator: Upptime <https://github.com/upptime/upptime>
